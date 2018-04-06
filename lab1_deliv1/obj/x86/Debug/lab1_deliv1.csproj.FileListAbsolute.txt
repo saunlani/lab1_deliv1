@@ -1,0 +1,5 @@
+/Users/shaunalan/Projects/lab1_deliv1/lab1_deliv1/bin/Debug/lab1_deliv1.exe
+/Users/shaunalan/Projects/lab1_deliv1/lab1_deliv1/bin/Debug/lab1_deliv1.pdb
+/Users/shaunalan/Projects/lab1_deliv1/lab1_deliv1/obj/x86/Debug/lab1_deliv1.csproj.CoreCompileInputs.cache
+/Users/shaunalan/Projects/lab1_deliv1/lab1_deliv1/obj/x86/Debug/lab1_deliv1.exe
+/Users/shaunalan/Projects/lab1_deliv1/lab1_deliv1/obj/x86/Debug/lab1_deliv1.pdb
